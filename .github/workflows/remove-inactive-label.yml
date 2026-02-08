@@ -1,4 +1,4 @@
-name: Remove the inactive label
+[![Remove the inactive label](https://github.com/community/community/actions/workflows/remove-inactive-label.yml/badge.svg)](https://github.com/community/community/actions/workflows/remove-inactive-label.yml)name: Remove the inactive label
 
 on:
   discussion_comment:
